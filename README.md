@@ -6,7 +6,7 @@ Traktor nml to cue file converter for my DJ sets
 * The desire to convert an nml file to a cue one
 
 # motivation
-Traktor automatically saves very useful information in `C:\Users\Izmar\Documents\Native Instruments\Traktor 2.11.0\History`. Here it keeps playlists of whatever you play in Traktor. But Mixcloud and media players usually eat CUE files, whereas Traktors stores its playlists as NML.
+Traktor automatically saves very useful information in `C:\Users\Izmar\Documents\Native Instruments\Traktor 2.11.0\History`. Here it keeps playlists of whatever you play in Traktor. But Mixcloud and media players usually eat CUE files, whereas Traktor stores its playlists as NML.
 
 # example
 From any directory:
